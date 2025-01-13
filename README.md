@@ -1,5 +1,5 @@
 # LLMs-Create-Chatbox-for-Health-Care-with-HuggingFace-Pretrained
-![Uploading chatbox-video.gif…](https://github.com/RickyDoan/LLMs-Create-Chatbox-for-Health-Care-with-HuggingFace-Pretrained/blob/main/chatbox-video.gif)
+![Uploading chatbox-video.gif…](https://github.com/RickyDoan/LLMs-Create-Chatbox-for-Health-Care-with-HuggingFace-Pretrained/blob/main/video-chatbox-v2.gif)
 ### **Overview**
 This project is a chatbot designed to handle healthcare and finance-related queries using a fine-tuned [HuggingFace T5ForConditionalGeneration]() model. It leverages Streamlit for an intuitive and user-friendly interface, enabling users to ask questions and receive human-like responses instantly.
 ### **Features**
